@@ -22,7 +22,7 @@ A simple, responsive contact form built with HTML, CSS, and JavaScript. The form
 Clone this repository or download the ZIP and extract it.
 
 ```sh
-git clone https://github.com/your-username/contact-form-app.git
+git clone https://github.com/Pavan007-collab/Contact-Form
 ```
 
 ### 2. Open the Project
